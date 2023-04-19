@@ -1,5 +1,9 @@
 # Emissions app
 
+## Preview
+
+![emissions_app_ss](https://user-images.githubusercontent.com/49190167/233191542-d74cb489-d30b-4e15-9696-6d582175c76f.png)
+
 ## ReactJS and Typescript App with Chakra UI and Mock Server
 
 This is a sample ReactJS and Typescript application with Chakra UI and mock server to demonstrate how to fetch data from a mock server and render it using reusable components.

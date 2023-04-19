@@ -12,7 +12,7 @@ const TripTile = () => {
     const [trips, setTrips] = useState([])
 
   const fetchData = () => {
-    fetch('https://my-json-server.typicode.com/PixelWaxShop/emissions-app-mock-server/trips')
+    fetch('https://my-json-server.typicode.com/PixelWaxShop/emissions-app/trips')
       .then(response => {
         return response.json()
       })
